@@ -11,6 +11,6 @@ Control note velocity or the modwheel using the mouse scroll wheel, and switch b
 Change octaves using the arrow keys. 
 
 Dependencies:
-mido
-keyboard
+mido,
+keyboard,
 pynput
