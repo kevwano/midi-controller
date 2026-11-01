@@ -9,3 +9,8 @@ Turn on the input using shift+r, and stop using esc. This program blocks keyboar
 Control note velocity or the modwheel using the mouse scroll wheel, and switch between them with the switch.
 
 Change octaves using the arrow keys. 
+
+Dependencies:
+mido
+keyboard
+pynput
